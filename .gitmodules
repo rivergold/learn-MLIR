@@ -5,3 +5,6 @@
 [submodule "3rdparty/triton"]
 	path = 3rdparty/triton
 	url = https://github.com/openai/triton.git
+[submodule "3rdparty/llvm-test-suite"]
+	path = 3rdparty/llvm-test-suite
+	url = https://github.com/llvm/llvm-test-suite.git
